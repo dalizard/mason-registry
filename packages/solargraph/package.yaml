@@ -16,4 +16,4 @@ schemas:
   lsp: vscode:https://raw.githubusercontent.com/castwide/vscode-solargraph/master/package.json
 
 bin:
-  solargraph: gem:cosmicgraph
+  solargraph: gem:solargraph
